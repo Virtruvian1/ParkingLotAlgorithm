@@ -1,0 +1,2 @@
+# ParkingLotAlgorithm
+The idea for this algorithm is to design a parking lot based system. The size of the parking lot is determined, then a series of vehicles are randomly generated. A series of equations will be run to determine the statistics of each vehicle in the parking lot at any given time. On a random bases, the vehicles will be generated, they will be placed in a parking spot, statistics will be run, and the vehicle will stay in place for a random amount of time. The algorithm will continue to run until all the parking spaces are filled. 
